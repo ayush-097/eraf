@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Wano Quin';
+    src: url('../font/WanoQuin-ExtraBold.woff2') format('woff2'),
+        url('../font/WanoQuin-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
