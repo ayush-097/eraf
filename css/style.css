@@ -13,11 +13,6 @@ body {
     overflow-x: hidden;
 }
 
-.container {
-    max-width: 1320px;
-    margin: auto;
-}
-
 a {
     color: #fff;
     text-decoration: none;
@@ -38,6 +33,7 @@ header {
     top: 0;
     width: 100%;
     z-index: 999;
+    padding: 1rem 3rem;
 }
 
 header span {
